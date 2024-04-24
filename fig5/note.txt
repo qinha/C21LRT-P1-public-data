@@ -1,0 +1,8 @@
+[1] C21LRT.csv
+contains results using C21LRT
+
+[2] optical-depth.csv
+contains results using optical depth method
+
+Rdiff.csv
+contains the relative difference. Both [1] and [2] were interpolated to a finer redshift resolution. Then the relative difference was computed.
