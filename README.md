@@ -1,9 +1,9 @@
 # P1-public-data
 
 Data Availability for C21LRT (P1),  
-ArXiv: http://arxiv.org/abs/2404.14407
 
-ADS link:
+
+ADS link:https://ui.adsabs.harvard.edu/abs/2024MNRAS.531..434C/abstract
 
 Data for Figs. 1, 2, 3, 4, 5 for P1 are available here.
 Also, the line-continuum interaction plots (i.e. Figs. B3 and C1)
